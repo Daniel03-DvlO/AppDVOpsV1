@@ -1,0 +1,2 @@
+rootProject.name='AppDVOpsV1'
+include ':app'
